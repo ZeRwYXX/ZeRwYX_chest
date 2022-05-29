@@ -1,7 +1,4 @@
 
--- Author: Morow
--- Github: https://github.com/Morow73
--- No Sale !!
 
 local chestCoord, xChest, Try = {}, {}, {}
 local Chest = false -- No Change 
