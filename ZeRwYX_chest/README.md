@@ -28,6 +28,14 @@ Serveur discord: https://discord.gg/wCBTYVR
 
 # EN
 
+### ZERWYX SCRIPT'S
+
+- Script modified and improved by ZeRwYX#9999
+- Do not sell!
+- Do not take ownership of the script
+- Start in the server.cfg "ensure ZeRwYX_chest" or "start ZeRwYX_chest"
+
+
 # HOW TO MAKE?
 
 - Put the sql in your database
@@ -36,11 +44,6 @@ Serveur discord: https://discord.gg/wCBTYVR
 
 
 
-### ZERWYX SCRIPT'S
 
-- Script modified and improved by ZeRwYX#9999
-- Do not sell!
-- Do not take ownership of the script
-- Start in the server.cfg "ensure ZeRwYX_chest" or "start ZeRwYX_chest"
 
 
