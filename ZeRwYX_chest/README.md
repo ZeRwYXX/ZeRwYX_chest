@@ -33,7 +33,6 @@ Serveur discord: https://discord.gg/wCBTYVR
 - Script modified and improved by ZeRwYX#9999
 - Do not sell!
 - Do not take ownership of the script
-- Start in the server.cfg "ensure ZeRwYX_chest" or "start ZeRwYX_chest"
 
 
 # HOW TO MAKE?
@@ -41,7 +40,7 @@ Serveur discord: https://discord.gg/wCBTYVR
 - Put the sql in your database
 - Change the webhook in 'server/server.lua' :9 [DISCORD_WEBHOOK]
 - Change webhook image in 'server/server.lua' :12 [DISCORD_IMAGE] 
-
+- Start in the server.cfg "ensure ZeRwYX_chest" or "start ZeRwYX_chest"
 
 
 
